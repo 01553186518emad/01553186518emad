@@ -86,7 +86,7 @@ Simulated a production-grade corporate domain environment with full Active Direc
 </td>
 <td width="50%">
 
-### 🎫 [IT-Help-Desk-Simulation](([https://github.com/01553186518emad/IT-Help-Desk-Simulation.git](https://github.com/01553186518emad/IT-Help-Desk-Simulation))
+### 🎫 [IT-Help-Desk-Simulation](https://github.com/01553186518emad/IT-Help-Desk-Simulation.git)))
 
 End-to-end simulation of enterprise IT support operations — ticket lifecycle management, escalation logic, SLA tracking, and remote troubleshooting workflows modeled after real-world tier-1/tier-2 environments.
 
