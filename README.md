@@ -25,7 +25,7 @@ Certified in **CCNA**, **CompTIA A+**, **Microsoft Azure**, and **AWS**, with a 
 
 | | |
 |---|---|
-| 🏢 **Organizations** | ALWALEED · Freelance Engagements |
+| 🏢 **Organizations** | Buffalo Burger · Freelance Engagements |
 | 🎓 **Certifications** | 37+ including CCNA, CompTIA A+, AZ-900, AWS CCP |
 | 🌍 **Location** | Egypt · Open to Gulf & Remote Opportunities |
 | 📈 **Goal** | Network Engineer → Cloud Solutions Engineer → Cloud Architect |
