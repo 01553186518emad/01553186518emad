@@ -122,7 +122,7 @@ End-to-end simulation of enterprise IT support operations — ticket lifecycle m
 <div align="center">
 
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamedrgb891&layout=compact&langs_count=8&theme=merko&border_color=F5C842&title_color=F5C842"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=merko&ring=F5C842&fire=F5C842&currStreakLabel=F5C842" alt="GitHub Streak"/>
 
