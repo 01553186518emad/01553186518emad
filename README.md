@@ -8,11 +8,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/emadsayed/" target="_blank">
-  <img src="https://raw.githubusercontent.com/01553186518emad/01553186518emad/main/linkedin_gold.jpg" alt="LinkedIn" width="200" />
-</a>
-<br/><br/>
-[![Email](https://img.shields.io/badge/Email-F5C842?style=for-the-badge&logo=gmail&logoColor=1A1A1A)](mailto:emadsayed.Job@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/emadsayed/)](www.linkedin.com/in/emadsayed)
+[![Email](https://img.shields.io/badge/Email-F5C842?style=for-the-badge&logo=gmail&logoColor=1A1A1A)](emadsayed.Job@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-F5C842?style=for-the-badge&logo=github&logoColor=1A1A1A)](https://github.com/01553186518emad)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-F5C842?style=for-the-badge&logo=whatsapp&logoColor=1A1A1A)](https://wa.me/201553186518)
 
@@ -116,7 +113,7 @@ End-to-end simulation of enterprise IT support operations — ticket lifecycle m
 
 </div>
 
-📎 *Verified credentials available on [LinkedIn](https://www.linkedin.com/in/emadsayed/)*
+📎 *Verified credentials available on [LinkedIn](www.linkedin.com/in/emadsayed)*
 
 ---
 
@@ -124,13 +121,32 @@ End-to-end simulation of enterprise IT support operations — ticket lifecycle m
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=01553186518emad&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=F5C842&title_color=F5C842&icon_color=F5C842"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01553186518emad&layout=compact&langs_count=8&theme=merko&border_color=F5C842&title_color=F5C842"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mhamedrgb891&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=F5C842&title_color=F5C842&icon_color=F5C842"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamedrgb891&layout=compact&langs_count=8&theme=merko&border_color=F5C842&title_color=F5C842"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=01553186518emad&theme=merko&ring=F5C842&fire=F5C842&currStreakLabel=F5C842" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedrgb891&theme=merko&ring=F5C842&fire=F5C842&currStreakLabel=F5C842" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
 ## ◈ Career Trajectory
+
+```
+Phase 1 — IT Support Engineer         ✅  Completed  ████████████████████  100%
+Phase 2 — Network Engineer            🔄  Active     ████████████░░░░░░░░   60%
+Phase 3 — Cloud Solutions Engineer    🎯  Building   █████░░░░░░░░░░░░░░░   25%
+Phase 4 — Cloud Architect             🏆  The Goal   ██░░░░░░░░░░░░░░░░░░   10%
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontColor=F5C842"/>
+
+<img src="https://komarev.com/ghpvc/?username=mhamedrgb891&color=F5C842&style=flat-square&label=Profile+Views"/>
+
+**Emad Sayed** · IT Support → Network Engineer → Cloud · Egypt 🇪🇬
+
+</div>
